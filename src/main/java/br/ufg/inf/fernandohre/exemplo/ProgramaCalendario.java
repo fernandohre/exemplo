@@ -4,7 +4,7 @@
  * Creative Commons Attribution 4.0 International License.
  */
 
-package com.github.kyriosdata.exemplo;
+package br.ufg.inf.fernandohre.exemplo;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
